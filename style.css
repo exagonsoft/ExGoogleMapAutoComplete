@@ -1,0 +1,71 @@
+.LabelArea {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .LeftLabel {
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  .requiredIndicator {
+    color: red;
+  }
+  
+  .RightLabel {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .checkBoxSelector {
+      border: 1px solid lightgrey;
+  }
+  
+  .AddressInput {
+    min-height: 35px;
+    width: 100%;
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+    margin-top: 8px;
+    font-weight: normal;
+  }
+  
+  .AddressInput:focus {
+    border: 1px solid rgba(72, 81, 210, 0.86);
+    outline: none;
+    box-shadow: none;
+  }
+  
+  .AddressInput:hover {
+    border: 1px solid rgba(136, 181, 188, 0.557);
+    outline: none;
+    box-shadow: none;
+  }
+  
+  .LocationArea {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 8px;
+  }
+  
+  .LocationFields {
+    min-height: 35px;
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+    margin-right: 10px;
+    font-weight: normal;
+  }
+  
+  .LocationFields:focus {
+    border: 1px solid rgba(72, 81, 210, 0.86);
+    outline: none;
+    box-shadow: none;
+  }
+  
+  .LocationFields:hover {
+    border: 1px solid rgba(136, 181, 188, 0.557);
+    outline: none;
+    box-shadow: none;
+  }
+  

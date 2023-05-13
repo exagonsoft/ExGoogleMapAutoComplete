@@ -1,5 +1,5 @@
 {
-  "name": "exgooglemapautocomplete",
+  "name": "ex-google-map-autocomplete",
   "version": "1.0.0",
   "description": "Custom Reusable React component to use the Google Map Autocomplete feature and allows the users to enter a custom address if not exist on Google Map",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/exagonsoft/ExGoogleMapAutoComplete.git"
+    "url": "git+github.com:exagonsoft/ExGoogleMapAutoComplete.git"
   },
   "keywords": [
     "Exagon-Soft",
     "GoogleMap",
     "GoogleMapAutocomplete"
   ],
-  "author": "Exagon-Soft",
+  "author": "Alvaro R Martin Peraza (Exagon-Soft)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/exagonsoft/ExGoogleMapAutoComplete/issues"
