@@ -1,6 +1,10 @@
 <!-- PROJECT LOGO -->
-# ExGoogleMapAutoComplete
-
+<h1 align="center">ExGoogleMapAutoComplete</h1>
+<br />
+<div align="center">
+  <a href="/Resourcess/banner.png">
+    <img src="src/assets/images/LogoAlthera.png" alt="Logo" width="200" height="200">
+  </a>
 
 
 ![MIT License](https://img.shields.io/github/license/exagonsoft/ExGoogleMapAutoComplete)
