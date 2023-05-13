@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/exagonsoft/ExGoogleMapAutoComplete">
-    <img src="images/banner.png" alt="Logo" width="auto" height="auto">
+    <img src="images/logo.png" alt="Logo" width="auto" height="auto">
   </a>
 
 
