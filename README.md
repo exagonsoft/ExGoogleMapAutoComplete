@@ -7,15 +7,18 @@
   </a>
 
 
+
 ![MIT License](https://img.shields.io/github/license/exagonsoft/ExGoogleMapAutoComplete)
 ![GitHub stars](https://img.shields.io/github/stars/exagonsoft/ExGoogleMapAutoComplete?style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/exagonsoft/ExGoogleMapAutoComplete)
 ![GitHub issues](https://img.shields.io/github/issues/exagonsoft/ExGoogleMapAutoComplete)
 ![Github version](https://img.shields.io/github/package-json/v/exagonsoft/ExGoogleMapAutoComplete/main)
+</div>
 
 <!-- CONTENT -->
 <br />
 
+<div backGround="white" border="1px solid white" border-radius="10px" width="max-content" height="auto" padding="15px">
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -38,6 +41,7 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+</div>
 <br />
 
 <!-- ABOUT THE PROJECT -->
