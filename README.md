@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/exagonsoft/ExGoogleMapAutoComplete">
-    <img src="images/logo.png" alt="Logo" width="auto" height="auto">
+    <img src="images/logo.png" alt="Logo" width="250" height="120">
   </a>
 
 
@@ -18,7 +18,6 @@
 <!-- CONTENT -->
 <br />
 
-<div backGround="white" border="1px solid white" border-radius="10px" width="max-content" height="auto" padding="15px">
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -41,7 +40,6 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
-</div>
 <br />
 
 <!-- ABOUT THE PROJECT -->
@@ -91,9 +89,28 @@ import React from 'react';
 import ExGoogleMapAutoComplete from 'ex-google-map-autocomplete';
 
 function MyComponent() {
-  const handleSelect = (address) => {
-    console.log(`Selected address: ${address}`);
-  };
+  const apiKey = "your_api_key"
+  const [selectedPlace, setSelectedPlace] = useState({
+    formatted_address: '',
+    geometry: { location: { lat: null, lng: null } },
+    useAutocomplete: true,
+  })
+
+  const handlePlaceSelect = place => {
+    setSelectedPlace({
+      formatted_address: place.formatted_address,
+      geometry: place.geometry,
+      useAutocomplete: selectedPlace.useAutocomplete,
+    })
+  }
+  
+  const handleUseAutocompleteChange = value => {
+    setSelectedPlace({
+      formatted_address: selectedPlace.formatted_address,
+      geometry: selectedPlace.geometry,
+      useAutocomplete: value,
+    })
+  }
 
   return (
     <div>
