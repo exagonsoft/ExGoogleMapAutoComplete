@@ -50,6 +50,12 @@
 A React component that provides an autocomplete feature for Google Maps, <br />
 but also allows users to enter a custom address if it doesn't exist on Google Maps.
 
+<br />
+
+<div align="center">
+    <img src="images/poster.png" alt="Logo" width="700" height="300">
+</div>
+
 <!-- SUPPORTED FRAMEWORKS -->
 <br />
 
