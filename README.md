@@ -58,18 +58,17 @@ but also allows users to enter a custom address if it doesn't exist on Google Ma
 <!-- PREREQUISITES -->
 
 
-## Prerequisites
-* React Framework
-* Node JS
+* ## Prerequisites
+  * React Framework
+  * Node JS
 
 <!-- INSTALL -->
 <br />
 
-## Installation
-
-You can install the ExGoogleMapAutoComplete package using package managers.
-* nmp
-```
+* ## Installation
+  You can install the ExGoogleMapAutoComplete package using package managers.<br />
+nmp
+```js
 npm install ex-google-map-autocomplete
 ```
 
