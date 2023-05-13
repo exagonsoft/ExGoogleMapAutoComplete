@@ -1,6 +1,6 @@
 {
   "name": "ex-google-map-autocomplete",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Custom Reusable React component to use the Google Map Autocomplete feature and allows the users to enter a custom address if not exist on Google Map",
   "main": "index.js",
   "scripts": {
