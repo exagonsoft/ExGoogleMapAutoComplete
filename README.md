@@ -3,10 +3,11 @@
 
 
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](./LICENSE)
-![GitHub followers](https://img.shields.io/github/followers/exagonsoft)
-![GitHub last commit](https://img.shields.io/github/last-commit/exagonsoft/my_place)
-![GitHub issues](https://img.shields.io/github/issues/exagonsoft/my_place)
+![MIT License](https://img.shields.io/github/license/exagonsoft/ExGoogleMapAutoComplete)
+![GitHub stars](https://img.shields.io/github/stars/exagonsoft/ExGoogleMapAutoComplete?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/exagonsoft/ExGoogleMapAutoComplete)
+![GitHub issues](https://img.shields.io/github/issues/exagonsoft/ExGoogleMapAutoComplete)
+![Github version](https://img.shields.io/github/package-json/v/exagonsoft/ExGoogleMapAutoComplete/main)
 
 <!-- CONTENT -->
 <br />
@@ -55,7 +56,7 @@ but also allows users to enter a custom address if it doesn't exist on Google Ma
 # Getting Started
 
 <!-- PREREQUISITES -->
-<br />
+
 
 ## Prerequisites
 * React Framework
